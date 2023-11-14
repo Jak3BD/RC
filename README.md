@@ -16,7 +16,6 @@ __Unix__
 ## Usage
 
 ```bash
-rc HelloWorld
 rc myComponent/HelloWorld
 ```
 
